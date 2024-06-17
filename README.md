@@ -3,7 +3,7 @@
 #### Desenvolvedor python junior💻
 #### Conhecimentos básicos em Javascript, HTML5, CSS, MYSQL, React, Node.js.
 
-![AlexsandroFont's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroFont&show_icons=true&theme=transparent)
+![AlexsandroFont's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroFont&show_icons=true&theme=dracula)
 
 ## My Skills
 
