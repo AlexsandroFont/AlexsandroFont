@@ -1,7 +1,8 @@
 ## Olá! Bem vindo ao meu incrivel mundo 👋
 
-#### Desenvolvedor python junior💻
-#### Conhecimentos básicos em Javascript, HTML5, CSS, MYSQL, React, Node.js.
+#### Desenvolvedor WEB junior💻
+#### Conhecimentos básicos: Python, MYSQL, React, Node.js.
+#### Conhecimentos intermediarios: Javascript, HTML5, CSS
 
 ![AlexsandroFont's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandroFont&show_icons=true&theme=dracula)
 
